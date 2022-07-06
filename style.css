@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body
+{
+    background-color: rgba(224, 222, 213, 0.863);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav {
+    
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+nav button {
+    width: 110px;
+    height : 34px;
+}
+
+footer{
+    text-align:center;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
