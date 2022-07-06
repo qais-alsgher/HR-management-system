@@ -40,7 +40,6 @@ const omar=new Employee("Omar Zaid",1004,"Development","Senior","");
 const rana=new Employee("Rana Saleh",1005,"Development","Junior","");
 const hadi=new Employee("Hadi Ahmad",1006,"Development","Mid-Senior","");
 
-omar.render();
 console.log(allemployee);
 
 for(let i=0;i<allemployee.length; i++){
