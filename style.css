@@ -39,8 +39,6 @@ display: flex;
 flex-wrap: wrap;
 justify-content:space-around;
 
-
-
 }
 
 #main div {
@@ -52,10 +50,13 @@ justify-content:space-around;
     text-align: center;
     border-radius: 9%;
 }
+
+
 #main img{
 width: 270px;
 height: 265px;
 }
+
 
 #main div p {
 

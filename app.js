@@ -26,8 +26,8 @@ Employee.prototype.taxSalary=function (){
     return (this.salary * 7.5)/100
 }
 
-Employee.prototype.render= function()
-{
+Employee.prototype.render= function(){
+    
 var myMain=document.getElementById('main');
 const printEmployee=document.createElement('div');
 myMain.appendChild(printEmployee);
