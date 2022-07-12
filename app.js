@@ -65,7 +65,16 @@ const omar=new Employee("Omar Zaid",1004,"Development","Senior","https://github.
 const rana=new Employee("Rana Saleh",1005,"Development","Junior","https://github.com/LTUC/new-prep-course-std/blob/main/Day10/Task/assets/Rana.jpg?raw=true");
 const hadi=new Employee("Hadi Ahmad",1006,"Development","Mid-Senior","https://github.com/LTUC/new-prep-course-std/blob/main/Day10/Task/assets/Hadi.jpg?raw=true");
 
-console.log(allemployee);
+}
+const ghaz=new Employee("Ghazi Samer",1000,"Administration","Senior","");
+const lana=new Employee("Lana Ali",1001,"Development","Senior","");
+const tamara=new Employee("Tamara Ayoub",1002,"Development","Senior","");
+const safi=new Employee("Safi Walid",1003,"Development","Mid-Senior","");
+const omar=new Employee("Omar Zaid",1004,"Development","Senior","");
+const rana=new Employee("Rana Saleh",1005,"Development","Junior","");
+const hadi=new Employee("Hadi Ahmad",1006,"Development","Mid-Senior","");
+
+
 
 for(let i=0;i<allemployee.length; i++){
 
